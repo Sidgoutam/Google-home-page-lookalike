@@ -1,0 +1,150 @@
+/***************** Container **************/
+.container1{
+    float: right;
+    margin: 0 2rem;
+}
+
+.container1link{
+    color: black;
+    margin-right: .7rem;
+}
+
+.container1link:hover{
+    text-decoration: none;
+    color: grey;
+    border-bottom: 1px solid black;
+}
+
+.apps{
+    color: grey;
+    font-size: 25px;
+    padding: 1rem 1rem 0 0;
+}
+
+.apps:hover{
+    color: black;
+}
+
+.signinbtn{
+    background-color: #386EAF;
+    color: white;
+    border-radius: 0;
+    width: 5rem;
+}
+
+/************ Google Apps ***********/
+
+.googleappclass{
+    margin: 5rem -17.5rem;
+    float: right;
+    box-shadow: 1px 1px 4px 2px rgba(0,0,0,0.2);
+}
+
+.googleapps{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.googleapps:hover{
+    background-color: lightblue;
+}
+
+/*********** Google *****************/
+.google{
+    margin: 7rem 37rem;
+    height: 8rem;
+    width: 19rem;
+}
+
+/*********** Search ******************/
+.search{
+    border-radius: 2rem;
+    padding-top: .5rem;
+    text-align: center;
+    margin-top: -5rem;
+    margin-left: 23rem;
+    width: 50rem;
+    height: 3rem;
+    border: 1px solid skyblue;
+}
+
+.search:hover{
+     box-shadow: 1px 1px 4px 2px rgba(0,0,0,0.2);
+}
+
+.searchicon{
+    float: left;
+    padding: 5px;
+    padding-left: 1rem;
+    color: grey;
+    font-size: 1.2rem;
+}
+
+.searchinput{
+    height: 2rem;
+    width:44rem;
+    border: none;
+}
+
+.voiceicon{
+    float: right;
+    padding-right: 1rem;
+    font-size: 1.2rem;
+}
+
+/***************** Buttons **************/
+.buttons{
+    margin: 2rem 0 0 37rem;
+}
+
+.mainbtns{
+    height: 3rem;
+    width: 10rem;
+    color: brown;
+    font-size: 1.1rem;
+    background-color:#A1FBE5;
+    border: none;
+}
+
+/********************** Languages ********/
+.languages{
+    margin: 2rem 0 0 28rem;
+}
+
+/****************** Footers *******************/
+.footer{
+    margin-top: 10.5rem;
+}
+.country{
+    background-color:#A1FBE5;
+    height: 3rem;
+    padding: .5rem;
+    border: 1px solid skyblue;
+}
+
+.about{
+    background-color:#A1FBE5;
+    height: 3rem;
+    padding: .5rem;
+    border: 1px solid skyblue;
+    width: 95.7rem;
+}
+.rightpart{
+    padding-right: 2rem;
+}
+
+.right{
+    float: right;
+}
+.footerlinks{
+    color: brown;
+    margin-left: 2rem;
+    font-size: 1.2rem;
+}
+
+.footerlinks:hover{
+    text-decoration: none;
+    color: brown;
+    border-bottom: 1px solid brown;
+}
+
